@@ -1,6 +1,6 @@
 # MMVL
 
-Run be using
+Run by using
 
 ```
 ./main <path to dataset> <number of runs> <maps>
